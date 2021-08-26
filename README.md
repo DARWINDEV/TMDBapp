@@ -4,6 +4,6 @@ Este proyecto es una aplicación creada con el framework de flutter y la api de 
 
 Vistas:
 
-![Screenshot_1629961750](https://user-images.githubusercontent.com/52447471/130917820-bed4e594-a4fe-4ade-b6c9-10881672e2f2.png)
+![image](https://user-images.githubusercontent.com/52447471/130918189-92cd1577-f1a8-4a8f-8bfa-e029d759d6f9.png)
+![image](https://user-images.githubusercontent.com/52447471/130918247-3ce390bf-749e-470e-88f1-d7773eafd6b6.png)
 
-![Screenshot_1629961761](https://user-images.githubusercontent.com/52447471/130917834-360c9dad-3081-4110-acdd-d04bfa2c6a5a.png)
